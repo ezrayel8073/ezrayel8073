@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Althi Ezrayel</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Motivated and detail-oriented IT graduate with a strong foundation in Master of  Computer Applications (MCA). Equipped with knowledge of C,Java ,python,Html,Css,Networking and hands-on experience through academic projects and internships.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezrayel8073&label=Profile%20views&color=0e75b6&style=flat" alt="ezrayel8073" /> </p>
 
